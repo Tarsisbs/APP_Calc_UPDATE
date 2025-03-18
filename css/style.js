@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     textoPrincipal:{
       fontSize: 30,
       fontWeight:'bold',
-      color:'orange',
+      color:'blue',
       backgroundColor:'black',
       width: 1920,
       textAlign:'center',
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
       shadowOpacity: 0.2,
       shadowOffset: {width: 0, height: 10},
       shadowRadius: 2,
-      height: 70
+      height: 70,
     },
    
     imagem:{
